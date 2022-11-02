@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Jonathan Muamba</h1>
 <h3 align="center">A passionate Web ,IOS and Android developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jonathann243" alt="jonathann243" /></a> </p>
+
 
 - 📄 Know about my experiences [#](#)
 
