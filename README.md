@@ -5,7 +5,7 @@
 
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=jonathann243&label=Profile%20views&color=0e75b6&style=flat" alt="jonathann243" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jonathann243&show_icons=true&locale=en&layout=compact" alt="jonathann243" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jonathann243&show_icons=true&locale=en&layout=compact" alt="jonathann243" /></p>
 
 - 🔭 I’m currently working on **Spring**
 
