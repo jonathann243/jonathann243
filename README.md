@@ -29,8 +29,8 @@
 
 
 
-<p align="center"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jonathann243&show_icons=true&locale=en&layout=compact" alt="jonathann243" /></p>
+<p> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jonathann243&show_icons=true&locale=en&layout=compact" alt="jonathann243" /></p>
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=jonathann243&show_icons=true&locale=en" alt="jonathann243" /></p>
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=jonathann243&" alt="jonathann243" /></p>
