@@ -4,6 +4,11 @@
 <h3 align="center">A passionate Web ,IOS and Android developer</h3>
 
 
+- 🔭 I’m currently working on **Spring**
+
+- 🌱 I’m currently learning **Swift(IOS)**
+
+- 📄 Know about my experiences [#](#)
 
 - 📄 Know about my experiences [#](#)
 
@@ -29,17 +34,6 @@
 
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 🔭 I’m currently working on **Spring**
-
-- 🌱 I’m currently learning **Swift(IOS)**
-
-- 📄 Know about my experiences [#](#)
-
-
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jonathann243&show_icons=true&locale=en&layout=compact" alt="jonathann243" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jonathann243&show_icons=true&locale=en" alt="jonathann243" /></p>
 
