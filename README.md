@@ -2,7 +2,9 @@
 <br>
 <h1 align="center">Hi 👋, I'm Jonathan Muamba</h1>
 <h3 align="center">A passionate Web ,IOS and Android developer</h3>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jonathann243&show_icons=true&locale=en&layout=compact" alt="jonathann243" /></p>
+
+<p align="left"><img src="https://komarev.com/ghpvc/?username=jonathann243&label=Profile%20views&color=0e75b6&style=flat" alt="jonathann243" /></p>
+
 
 - 🔭 I’m currently working on **Spring**
 
@@ -24,9 +26,8 @@
 
 
 
-<p align="left"><img src="https://komarev.com/ghpvc/?username=jonathann243&label=Profile%20views&color=0e75b6&style=flat" alt="jonathann243" /> xxxx</p>
 
-
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jonathann243&show_icons=true&locale=en&layout=compact" alt="jonathann243" /></p>
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jonathann243&show_icons=true&locale=en" alt="jonathann243" /></p>
