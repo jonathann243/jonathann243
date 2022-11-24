@@ -5,7 +5,8 @@
 
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=jonathann243&label=Profile%20views&color=0e75b6&style=flat" alt="jonathann243" /></p>
-
+<p>
+<a href="https://wakatime.com/@d4104d10-5b15-43b0-8989-539a8dd59dc9"><img src="https://wakatime.com/badge/user/d4104d10-5b15-43b0-8989-539a8dd59dc9.svg" alt="Total time coded since Oct 26 2021" /></a></p>
 
 - 🔭 I’m currently working on **Spring**
 
@@ -14,8 +15,7 @@
 - 📄 Know about my experiences [#](#)
 
 - 📄 Know about my experiences [#](#)
-<p>
-<a href="https://wakatime.com/@d4104d10-5b15-43b0-8989-539a8dd59dc9"><img src="https://wakatime.com/badge/user/d4104d10-5b15-43b0-8989-539a8dd59dc9.svg" alt="Total time coded since Oct 26 2021" /></a></p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/jonathan-kanyinda-1412701a0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jonathan kanyinda" height="30" width="40" /></a>
