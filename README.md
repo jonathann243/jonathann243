@@ -7,7 +7,7 @@
 
 <p align="center">
 <a  href="https://wakatime.com/@d4104d10-5b15-43b0-8989-539a8dd59dc9"><img src="https://wakatime.com/badge/user/d4104d10-5b15-43b0-8989-539a8dd59dc9.svg" alt="Total time coded since Oct 26 2021" /></a></p>
-<p align="center"><img src="https://komarev.com/ghpvc/?username=jonathann243&label=Profile%20views&color=0e75b6&style=flat" alt="jonathann243" />55</p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=jonathann243&label=Profile%20views&color=0e75b6&style=flat" alt="jonathann243" /></p>
 - 🔭 I’m currently working on **Spring**
 
 - 🌱 I’m currently learning **Swift(IOS)**
