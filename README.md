@@ -68,7 +68,7 @@
 ## Developpement Frontend (website)
 <p> 
  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jonathann243&repo=angulart&theme=ayu-mirage)](https://github.com/jonathann243/pacManYellow) &emsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jonathann243&repo=angulart&theme=ayu-mirage)](https://github.com/jonathann243/angulart)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jonathann243&repo=pacManYellow&theme=ayu-mirage)](https://github.com/jonathann243/pacManYellow) &emsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jonathann243&repo=angulart&theme=ayu-mirage)](https://github.com/jonathann243/angulart)
  
 </p>
 <br>
