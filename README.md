@@ -1,7 +1,7 @@
 <img align="right" alt="Coding" width="1000" src="https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif">
 <br>
 <h1 align="center">Hi 👋, I'm Jonathan Muamba</h1>
-<h3 align="center">A passionate Web ,IOS and Android developer</h3>
+<h3 align="center">A passionate Web  and Android developer</h3>
 
 
 
@@ -47,8 +47,8 @@
 
 <p>
 	
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josue-lubaki&repo=sapp&theme=ayu-mirage)](https://github.com/josue-lubaki/sapp) 
- &emsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josue-lubaki&repo=coffee-masters&theme=ayu-mirage)](https://github.com/josue-lubaki/coffee-masters)
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jonathann243&repo=sapp&theme=ayu-mirage)](https://github.com/jonathann243/SAAP) 
+ &emsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jonathann243&repo=EPharma&theme=ayu-mirage)](https://github.com/jonathann243/EPharma)
 </p>
 
 
