@@ -87,7 +87,7 @@ I'm a Software Ingenior.
 <p> 
  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jonathann243&repo=BookNowApp&theme=ayu-mirage)](https://github.com/jonathann243/BookNowApp) &emsp; 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jonathann243&repo=BookNowApp&theme=ayu-mirage)](https://github.com/jonathann243/BookNowApp)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jonathann243&repo=react-vitrine-dec-int&theme=ayu-mirage)](https://github.com/jonathann243/react-vitrine-dec-int)
  
 </p>
 
