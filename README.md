@@ -84,6 +84,6 @@
 
 <p>
 	
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jonathann243&repo=JoChat-client&theme=ayu-mirage)](https://github.com/jonathann243/JoChat-client) &emsp;
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jonathann243&repo=joChat-client&theme=ayu-mirage)](https://github.com/jonathann243/joChat-client) &emsp;
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jonathann243&repo=JoChat-server&theme=ayu-mirage)](https://github.com/jonathann243/JoChat-server)
 </p>
