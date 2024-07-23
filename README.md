@@ -1,8 +1,20 @@
-<img align="right" alt="Coding" width="1000" src="https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif">
 <br>
-<h1 align="center">Hi 👋, I'm Jonathan Muamba</h1>
-<h3 align="center">A passionate Web  and Android developer</h3>
 
+### Hey, I'm Jonathan 👋🏽 
+
+I'm a Software Ingenior. 
+
+## 📦 Toolbox
+
+**Frontend Development:** `React` `Angular` `TypeScript` `CSS` `Tailwind` 
+ 
+**Version Control:** `GitHub` `GitLab` `Azure` 
+
+**Backend Development:** `Asp .Net WEB API` `Node Js` `MongoDB` 
+
+**Testing:**  `J-unit` `Cypress` `Postman` 
+
+**Others:** `Azure Dev OPS` `Scrum` `Jira`
 
 
 <p align="center">
