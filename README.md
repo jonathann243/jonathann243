@@ -58,7 +58,7 @@
 ## Developpement Backend - API
 <p> 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jonathann243&repo=node-TD&theme=THEME_NAME)](https://github.com/jonathann243/node-TD)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jonathann243&repo=node-TD&theme=ayu-mirage)](https://github.com/jonathann243/node-TD)
  &emsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jonathann243&repo=Springulart-back&theme=ayu-mirage)](https://github.com/jonathann243/springulart-back)
  
 </p>
