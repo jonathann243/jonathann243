@@ -78,12 +78,14 @@
 ## Divers
 <p>
 	
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jonathann243&repo=awesome-interview&theme=ayu-mirage)](https://github.com/jonathann243/awesome-interview) &emsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jonathann243&repo=UI-Design-Windows-Forms&theme=ayu-mirage)](https://github.com/jonathann243/UI-Design-Windows-Forms) 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jonathann243&repo=python-CoinScan&theme=ayu-mirage)](https://github.com/jonathann243/python-CoinScan) &emsp; 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jonathann243&repo=UI-Design-Windows-Forms&theme=ayu-mirage)](https://github.com/jonathann243/UI-Design-Windows-Forms) 
 </p>
 
 
 
 <p>
 	
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jonathann243&repo=YoChat-Client&theme=ayu-mirage)](https://github.com/jonathann243/YoChat-Client) &emsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jonathann243&repo=YoChat-server&theme=ayu-mirage)](https://github.com/jonathann243/YoChat-server)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jonathann243&repo=JoChat-client&theme=ayu-mirage)](https://github.com/jonathann243/JoChat-client) &emsp;
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jonathann243&repo=JoChat-server&theme=ayu-mirage)](https://github.com/jonathann243/JoChat-server)
 </p>
